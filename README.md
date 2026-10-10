@@ -1,4 +1,4 @@
-## Hi there 👋
+![Untitled73-20261004150710.png](https://files.catbox.moe/58vm9x.png)
 
 <!--
 **toxinclaws/toxinclaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
